@@ -1,4 +1,7 @@
-# Developer Experience and Community Success team handbook
+---
+layout: default
+title: Developer Experience and Community Success team handbook
+---
 
 ## On this page
 {:.no_toc}
