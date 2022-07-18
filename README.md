@@ -45,8 +45,8 @@ Instructions:
 
 1. Make one single copy of the [Weekly status report template](https://docs.google.com/document/d/1CxZ30C0MfLB6TyeVP1I64InSRNa4YQE0MVWBSEDK2EM/edit) document and replace the title with your name. You'll be adding content to your one document every week.
 1. Leave the sharing permissions set to "The Linux Foundation" and "Edit". If you are sharing confidential information, consider changing the people to share with to "Developer Experience and Community Success Team".
-1. Add a link to your weekly report document to the links section of your 1:1 with your manager.
-1. Add a link to your weekly report document to the links section of the Developer Experience and Community Success team meeting agenda.
+1. Add a link to your weekly report document to the links section of your [1:1 with your manager](#1-on-1s).
+1. Add a link to your weekly report document to the links section of the [Developer Experience and Community Success team meeting agenda](#team-meeting).
 
 Content format:
 
@@ -66,8 +66,8 @@ Writing guidelines:
 You can reach out to the whole Developer Experience and Community Success team in a manner of ways depending of the communication channel:
 
 1. **Slack**: for general questions and conversations, feel free to join the [Developer Experience and Community Success Slack channel](https://linuxfoundation.slack.com/messages/devex-and-commsuccess). Generally a team member or someone who collaborates with the team will respond in a reasonable timeframe. If you know who you ask a specific question, feel free to mention them directly using their Slack handle.
-   1. You can use the @devex-and-comsuccess handle to mention the whole group, from any channel within the Linux Foundation Slack workspace. It is more selective than using Slack's standard handles: @channel (as it sends a notification only to members of the group) and more direct than using @here (as it sends a notification to all members of the group, regardless of their online status). Use it only when you really require the whole group's attention (e.g. important team notifications).
-1. **E-mail**: you can use the devex-and-commsuccess@linuxfoundation.org to send an e-mail to all team members. Currently only Linux Foundation members can send e-mail to that address, but it could potentially be open to external addresses if there is a future use case for that need. Use it if you need to discuss a topic or make an announcement more confidentially with the group.
+   1. You can use the `@devex-and-comsuccess` handle to mention the whole group, from any channel within the Linux Foundation Slack workspace. It is more selective than using Slack's standard handles: [@channel](https://slack.com/help/articles/202009646-Notify-a-channel-or-workspace#u64channel) (as it sends a notification only to members of the group) and more direct than using [@here](https://slack.com/help/articles/202009646-Notify-a-channel-or-workspace#u64here) (as it sends a notification to all members of the group, regardless of their online status). Use it only when you really require the whole group's attention (e.g. important team notifications).
+1. **E-mail**: you can use the `devex-and-commsuccess@linuxfoundation.org` address to send an e-mail to all team members. Currently only Linux Foundation members can send e-mail to that address, but it could potentially be open to external addresses if there is a future use case for that need. Use it if you need to discuss a topic or make an announcement more confidentially with the group.
 
 ### Comms channels
 
