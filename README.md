@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Developer Experience and Community Success team handbook
 ---
 
