@@ -9,6 +9,10 @@ permalink: index.html
 * TOC
 {:toc}
 
+## Introduction
+
+This handbook describes how we run the Developer Experience and Community Success team at the Linux Foundation. If you are viewing the markdown soources on the repository, you can also view the rendered documentation at [the handbook site](https://linuxfoundation.github.io/devex-and-commsuccess-handbook/). The site is generally the best URL to bookmark and share. 
+
 ## Communication
 
 ### 1-on-1s
