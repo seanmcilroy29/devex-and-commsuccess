@@ -77,3 +77,37 @@ You can reach out to the whole Developer Experience and Community Success team i
 
 1. [Developer Experience and Community Success Slack channel](https://linuxfoundation.slack.com/messages/devex-and-commsuccess): the team's main communication channel for discussion and sharing knowledge related to our projects and communities. All members of the team are part of the channel, which is also open to anyone else in the organization who either wants to follow the work, ask questions or simply hang out to join. It is a public Slack channel for LF team members only.
 1. [Community hangout Slack channel](https://linuxfoundation.slack.com/messages/community-hangout): the team's social channel. This is a space to share non-work related stories. What did you do last weekend? Show off your pets, show us your last family holiday pics, memes... In summary, a space to get to know each other by offering a window into what we're doing when we're not in front of the computer working. All team members are included by default, but it's voluntary to join/leave the channel. Feel free to share as much or as little as you like.
+
+## How to edit the handbook
+
+The handbook's content is written in [Markdown format](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Familiarize with the syntax before doing your first edits.
+
+For simplicity, GitHub's web editor is the proposed default, which is the editor the workflow below assumes. Alternatively, more advanced users can also choose to check out the repository, do local edits and submit the changes in a PR.
+
+Creating and curating the handbook is a collaborative effort where everyone in the team is encouraged to contribute. Since often the content will define policies or processes for the team, it will also be peer-reviewed. The act of doing reviews and approvals will generally be a compromise between consensus and bias for action. Everyone is encouraged to do a review, but the submitter will not generally require approval from the whole team to land their content, so that we can move faster. Exceptions might include defining critical policies for the team, where explicitly everyone's review and approval might be required before that policy is either approved, iterated upon or discarded.
+
+### Edit workflow
+
+Content contribution overview:
+
+```mermaid
+graph TD
+    A(Edit content) --> B_(Commit changes)
+    B_ --> B("Submit Pull Request (PR)")
+    B --> C(Request review)
+    C --> D{Reviewer approves}
+    D -->|Y| E(Merge MR)
+    D -->|N| F(Edit)
+    F --> G(Commit changes)
+    G --> C
+```
+
+Content contribution in detail:
+
+| Stage | UI | Description |
+| --- | --- | --- |
+| Edit |  |  |
+| Commit changes |  |  |
+| Request review |  |  |
+| Reviewer approves |  |  |
+| Merge MR |  |  |
