@@ -97,7 +97,7 @@ graph TD
     B --> C(Request review)
     C --> D{Reviewer approves}
     D -->|Y| E(Merge MR)
-    D -->|N| F(Edit)
+    D -->|N| F(Edit content)
     F --> G(Commit changes)
     G --> C
 ```
@@ -106,8 +106,11 @@ Content contribution in detail:
 
 | Stage | UI | Description |
 | --- | --- | --- |
-| Edit |  |  |
-| Commit changes |  |  |
-| Request review |  |  |
+| Edit | ![imatge](https://user-images.githubusercontent.com/1689781/180428653-9c38f733-72cc-40b4-962b-5df06833f517.png) |  |
+| Commit changes | ![Captura de pantalla de 2022-07-22 11-27-43](https://user-images.githubusercontent.com/1689781/180428764-74405f78-78f0-4f94-91c9-dff248556213.png) |  |
+| Submit Pull Request (PR) | ![Captura de pantalla de 2022-07-22 11-32-06](https://user-images.githubusercontent.com/1689781/180428837-2fa0e508-401f-4694-8ad8-3b73a1699221.png) |  |
+| Request review | ![Captura de pantalla de 2022-07-22 11-38-35](https://user-images.githubusercontent.com/1689781/180428958-0734c2aa-ec73-4fc3-9510-6227763546bf.png) |  |
 | Reviewer approves |  |  |
 | Merge MR |  |  |
+
+
