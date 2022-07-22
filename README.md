@@ -38,7 +38,7 @@ All team members are [encouraged to contribute to the handbook](#how-to-edit-the
 ### Team meeting
 
 1. We'll be meeting as a team once a week for coordination, alignment and collaboration purposes
-1. The [team meeting agenda](https://docs.google.com/document/d/1qa1m5FhZu6QRp42E-_mXp2_Tj5Y8h3JazYvemLwhI9E/edit) will be prepared in advance, using a similar format as described for #1-on-1s. Everyone in the team can contribute to the agenda and is encouraged to add topics that are relevant for discussion or visibility for the whole team.
+1. The [team meeting agenda](https://docs.google.com/document/d/1qa1m5FhZu6QRp42E-_mXp2_Tj5Y8h3JazYvemLwhI9E/edit) will be prepared in advance, using a similar format as described for [1-on-1s](#1-on-1s). Everyone in the team can contribute to the agenda and is encouraged to add topics that are relevant for discussion or visibility for the whole team.
 1. To add a topic, simply add your name and a description of the topic you'd like to discuss –and be prepared to lead the discussion.
 1. Everyone is encouraged to contribute with note-taking during the call. Meetings can also be recorded.
 1. Notes and recordings should allow those not being able to attend in person to catch up async in their own time.
