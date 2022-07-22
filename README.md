@@ -88,14 +88,6 @@ For simplicity, GitHub's web UI is the proposed choice of editor for markdown fi
 
 Creating and curating the handbook is a collaborative effort where everyone in the team is encouraged to contribute. Since often the content will define common policies or processes, it will also be peer-reviewed. The act of doing reviews and approvals will generally be a compromise between consensus and bias for action. Everyone is encouraged to do a review, but the submitter will not generally require approval from the whole team to commit their changes, so that we can move faster. Exceptions might include defining critical team policies, where everyone's review and approval might be required before that policy is either approved, iterated upon or discarded.
 
-## How to edit the handbook
-
-The handbook's content is written in [Markdown format](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Familiarize with the syntax before doing your first edits.
-
-For simplicity, GitHub's web UI is the proposed choice of editor for markdown files, and that which the workflow below assumes. Alternatively, more advanced users can also choose to check out the repository, do local edits and submit the changes in a PR.
-
-Creating and curating the handbook is a collaborative effort where everyone in the team is encouraged to contribute. Since often the content will define common policies or processes, it will also be peer-reviewed. The act of doing reviews and approvals will generally be a compromise between consensus and bias for action. Everyone is encouraged to do a review, but the submitter will not generally require approval from the whole team to commit their changes, so that we can move faster. Exceptions might include defining critical team policies, where everyone's review and approval might be required before that policy is either approved, iterated upon or discarded.
-
 ### Edit workflow
 
 Content contribution overview:
