@@ -1,5 +1,6 @@
 ---
 title: Developer Experience and Community Success team handbook
+permalink: index.html
 ---
 
 ## On this page
