@@ -116,3 +116,15 @@ Content contribution in detail:
 | Merge MR | TBD | The final reviewer will generally merge the MR once one or more approvals have been received. The submitter will not generally approve their own requests. However, until we refine the process it should be fine for them to do so if the reviewers' approvals have been done. |
 
 :information_source: Note for advanced users: members of the [Developer Experience and Community Success team](https://github.com/orgs/linuxfoundation/teams/devex-and-commsuccess-team) in the `linuxfoundation` organization in GitHub can create development branches directly under the repository where the handbook lives. These will be generally the ones that will be used to contain the changes submitted in PRs. It is not the most common development approach, but it simplifies our workflow. Working on forks and topic branches is also supported.
+
+# Acronym Glossary
+
+This is just a start. Please add any acronyms that your projects use! 
+
+* GB - Governing Board
+* MAC - Marketing Advisory Committee
+* OC - Outreach Committee
+* SPC - Strategic Planning Committee
+* TAC - Technical Advisory Committee
+* TSC - Technical Steering Committee
+* TOC - Technical Oversight Committee
