@@ -123,7 +123,7 @@ Content contribution in detail:
 These steps apply to either agencies or individuals.
 
 1. The vendor either: 
-    1. Creates a scope of work (SOW) outlining what they will be doing and what it will cost. This is the preferred method. 
+   1. Creates a scope of work (SOW) outlining what they will be doing and what it will cost. This is the preferred method. 
     2. Creates a legal agreement that includes a SOW. This method requires the LF Legal team to review the contract before approving it for LF to sign. 
 2. The vendor sends either their SOW or their legal agreement to the LF internal contact, usually the Program Manager. 
 3. The LF internal contact goes to [staff.linuxfoundation.org](staff.linuxfoundation.org) and opens the ‘[HR Finance Ops](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/21)’ portal.
