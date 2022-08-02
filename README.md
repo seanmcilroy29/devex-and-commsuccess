@@ -128,7 +128,7 @@ These steps apply to either agencies or individuals.
 2. The vendor sends either their SOW or their legal agreement to the LF internal contact, usually the Program Manager. 
 3. The LF internal contact goes to [staff.linuxfoundation.org](staff.linuxfoundation.org) and opens the ‘[HR Finance Ops](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/21)’ portal.
 4. Inside the HR Finance Ops portal, click the ‘[Contractor & Vendor Requests](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/21/create/462)’ option and fill out the form. 
-    3. In order to complete the form you will need this information from the contractor:
+   1. In order to complete the form you will need this information from the contractor:
         1. Vendor name
         2. Name of signatory for contract
         3. Email address of signatory for contract
