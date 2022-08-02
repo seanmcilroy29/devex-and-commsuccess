@@ -177,4 +177,4 @@ This is just a start. Please add any acronyms that your projects use!
          1. Go to [SurveyMonkey Login ](https://www.surveymonkey.com/user/sign-in/)
          2. Select Log in with Google account 
          3. Create New Account 
-         4. Join Enterprise team (it will recognize your domain and add you to the LF "team" account
+         4. Join Enterprise team (it will recognize your domain and add you to the LF "team" account)
