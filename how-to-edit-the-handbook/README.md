@@ -40,3 +40,46 @@ Content contribution in detail:
 | Merge MR | TBD | The final reviewer will generally merge the MR once one or more approvals have been received. The submitter will not generally approve their own requests. However, until we refine the process it should be fine for them to do so if the reviewers' approvals have been done. |
 
 :information_source: Note for advanced users: members of the [Developer Experience and Community Success team](https://github.com/orgs/linuxfoundation/teams/devex-and-commsuccess-team) in the `linuxfoundation` organization in GitHub can create development branches directly under the repository where the handbook lives. These will be generally the ones that will be used to contain the changes submitted in PRs. It is not the most common development approach, but it simplifies our workflow. Working on forks and topic branches is also supported.
+
+### Handbook structure
+
+The handbook's structure is conceived to be initially simple. As such, most of the relevant content will be on the front page's `README.md` file.
+
+If content needs to be added to its specific section (e.g. a lengthy, self-contained topic), it can also go into a new subpage. In practical terms, the subpage will be a folder in the root directory of the repository, which will include a `README.md` file with the content. Generally, the subpage will be linked to from somewhere else in the handbook for discoverability. At this point, for simplicity and given the fact that breadcrumb navigation is not supported, nested subfolders are not recommended.
+
+To add links to a subpage, use the regular Markdown link syntax and the name of the subpage, which will be the same one as the folder that contains the `README.md` file with the content. Example:
+
+```
+All team members are [encouraged to contribute to the handbook](how-to-edit-the-handbook).
+```
+
+The links in the `README.md` files will automatically be converted to valid, relative HTML links when the [handbook site](#repository-vs-site) is rendered.
+
+### Repository vs site
+
+The handbook is hosted on GitHub as a set of `README.md` files written in plain text formatted as Markdown. Given that GitHub renders `README.md` files as HTML when navigating through a repository, the handbook content can be consumed directly from the repository itself through the browser.
+
+The handbook is also set up to use GitHub Pages, which automatically render the `README.md` file into rich HTML pages hosted on a dedicated site with its own URL. Consuming the handbook content through the site is recommended for most users, as it provides a cleaner, read-only user interface with added features, such as Tables of Contents.
+
+The website is updated and deployed every time a PR is merged. GitHub Pages uses Jekyll as the static website generator engine to serve the content.
+
+#### Table of contents
+
+While GitHub's web view of the `README.md` files does not support an auto-generated Table of Contents (TOC), this can be added to the rendered content on the site. Simply add this snippet on top of each `README.md` file:
+
+```
+## On this page
+{:.no_toc}
+
+* TOC
+{:toc}
+```
+
+[Learn more about this syntax](https://kramdown.gettalong.org/converter/html.html#toc).
+
+### Handbook style guide
+
+1. The handbook represents the current state and is assumed to be up-to-date. Do not document historical content or future states, unless explicitly describing a roadmap, mission or vision.
+1. Use [GitHub flavored Markdown format](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to write content
+1. Use [sentence case](https://en.wikipedia.org/wiki/Letter_case#Sentence_case) for section titles
+1. Use H2 titles (`##` in Markdown) as the top level header for section titles. Child sections will continue as H3 (`###`), H4 (`####`), and so forth. Strive to keep a shallow title depth for simplicity.
