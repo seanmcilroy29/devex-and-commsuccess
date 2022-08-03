@@ -181,7 +181,7 @@ This is just a start. Please add any acronyms that your projects use!
 
 ## Ticket/Request Submissions
 
-A list of places to submit various types of tickets within the LF. Please help to add/edit over time. 
+A list of places to submit various types of tickets/requests within the LF. Please help to add/edit over time. 
 
 * [LF Support Center (Jira Service Desk)](https://jira.linuxfoundation.org/plugins/servlet/theme/portals/category/4)
     * Central location for submitting tickets related to Project Services, LFX Support, Training & Certification, Member Support, and LF Events
