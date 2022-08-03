@@ -187,6 +187,7 @@ A list of places to submit various types of tickets/requests within the LF. Plea
     * Central location for submitting tickets related to Project Services, LFX Support, Training & Certification, Member Support, and LF Events
 * [Membership Ops Desk](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/25)
     * Membership operations support for items such as Auto Join, Billing Address/Contact Changes, Custom Salesforce Reports, Membership Cancellations/Upgrades/Downgrades, Quote Requests, and Invoice Changes
+    * [Membership Ops Desk FAQ](https://docs.google.com/document/d/1P1K3kzuhaRIoOwj117XB_5SOMjqj2r-ZwZFCFyal6W0/edit)
 * [Marketing Services Requests](https://linuxfoundation.org/marketing-requests/)
     * Requests for Design, Website, PR/Communications, and Digital Marketing
 * [Legal Requests](https://legaljira.linuxfoundation.org/servicedesk/customer/portal/1)
