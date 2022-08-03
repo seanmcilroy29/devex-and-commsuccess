@@ -190,7 +190,7 @@ A list of places to submit various types of tickets/requests within the LF. Plea
 * [Marketing Services Requests](https://linuxfoundation.org/marketing-requests/)
     * Requests for Design, Website, PR/Communications, and Digital Marketing
 * [Legal Requests](https://legaljira.linuxfoundation.org/servicedesk/customer/portal/1)
-    *Requests for legal requests related to Contracts, Trademark, Export Control, and Other
+    * Requests for legal requests related to Contracts, Trademark, Export Control, and Other
 * [Project Formation Intake Form](https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform)
-   *Submission form to spin up a new project with formation team
+   * Submission form to spin up a new project with formation team
    
