@@ -95,3 +95,61 @@ This is just a start. Please add any acronyms that your projects use!
    * The TSC is the leadership of the project. This committee's primary role is to set the overall direction of the project, ensure the project community has the needed resources and infrastructure to succeed, resolve any issues within the project community, and provide project updates to the TAC (if the project has a TAC).
 * **TOC - Technical Oversight Committee**
    * See TAC definition. Projects usually will have either a TOC or TAC.
+
+## Tooling
+
+* [1Password](https://1password.com/)
+    * Credential management 
+    * 1Password offers a [free Teams account for Open Source projects](https://github.com/1Password/1password-teams-open-source).
+* [LFX Insights](https://insights.lfx.linuxfoundation.org/)
+    * Insights gives you complete visibility into project performance and ecosystem trends. Understand your contributor community and make informed decisions with these analytics and reporting tools.
+    * [LFX Insights Documentation](https://docs.linuxfoundation.org/lfx/insights)
+* [LFX Project Control Center](https://projectadmin.lfx.linuxfoundation.org/) (PCC)
+    * PCC provides operations support across governance, IT, and product management needs.
+    * This is where you update your project committees, enable email forwarding, set up mailing lists, onboard your projects to LFX Insights, LFX Security, EasyCLA, etc.
+    * [LFX Project Control Center Documentation](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release')
+* [LFX Organization Dashboard](https://myorg.lfx.dev/)
+    * Organization dashboard also known as company dashboard is a one hub to provide management and visibility to all organization activities with Linux Foundation services as projects memberships, Linux Foundation events, training and certifications, projects analysis and insights, CLA, security, funding and mentorship.
+    * This is where you update membership roles, company logos, and access member contracts.
+    * [LFX Organization Dashboard Documentation](https://docs.linuxfoundation.org/lfx/organization-dashboard-pre-release)
+* [LFX Security](https://security.lfx.dev/)
+    * The LFX Security tool provides the following functionalities with respect to the open source project code:
+        * Vulnerabilities Detection - To detect vulnerabilities in your code and provide fixes and recommendations to those vulnerabilities.
+        * Code Secrets - Detect secrets such as passwords, credentials, keys, access tokens which might help hackers to hack your code.
+        * Non Inclusive Language - Detects non inclusive words used in your code which might hurt and treat people unfairly.
+    * [LFX Security Documentation](https://docs.linuxfoundation.org/lfx/security)
+* [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/)
+    * LFX Mentorship is a tool that makes it easier than ever to pair promising open source talent with experienced mentors.
+    * [LFX Mentorship Documentation](https://docs.linuxfoundation.org/lfx/mentorship)
+* [LFX EasyCLA](https://easycla.lfx.linuxfoundation.org/#/)
+    * LFX EasyCLA streamlines the contribution process for open source projects that use [Contributor License Agreements (CLAs)](https://docs.linuxfoundation.org/lfx/easycla#what-is-a-cla), by streamlining workflows for project maintainers, contributors, and organizations whose employees are contributing to the project.
+    * [LFX EasyCLA Documentation](https://docs.linuxfoundation.org/lfx/easycla)
+* [Hubspot](https://www.hubspot.com/)
+    * CRM platform that has all the tools and integrations you need for marketing, sales, content management, and customer service
+* [OpaVote](https://www.opavote.com/)
+    * Election and polls
+    * Information on how to set up an election in OpaVote can be found [here](https://confluence.linuxfoundation.org/pages/viewpage.action?pageId=70484713).
+* [SurveyMonkey](https://www.surveymonkey.com/user/sign-in/)
+    * Survey tool
+    * Join the LF Enterprise account by following these steps:
+         1. Go to [SurveyMonkey Login ](https://www.surveymonkey.com/user/sign-in/)
+         2. Select Log in with Google account 
+         3. Create New Account 
+         4. Join Enterprise team (it will recognize your domain and add you to the LF "team" account)
+
+## Ticket/Request Submissions
+
+A list of places to submit various types of tickets/requests within the LF. Please help to add/edit over time. 
+
+* [LF Support Center (Jira Service Desk)](https://jira.linuxfoundation.org/plugins/servlet/theme/portals/category/4)
+    * Central location for submitting tickets related to Project Services, LFX Support, Training & Certification, Member Support, and LF Events
+* [Membership Ops Desk](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/25)
+    * Membership operations support for items such as Auto Join, Billing Address/Contact Changes, Custom Salesforce Reports, Membership Cancellations/Upgrades/Downgrades, Quote Requests, and Invoice Changes
+    * [Membership Ops Desk FAQ](https://docs.google.com/document/d/1P1K3kzuhaRIoOwj117XB_5SOMjqj2r-ZwZFCFyal6W0/edit)
+* [Marketing Services Requests](https://linuxfoundation.org/marketing-requests/)
+    * Requests for Design, Website, PR/Communications, and Digital Marketing
+* [Legal Requests](https://legaljira.linuxfoundation.org/servicedesk/customer/portal/1)
+    * Requests for legal requests related to Contracts, Trademark, Export Control, and Other
+* [Project Formation Intake Form](https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform)
+   * Submission form to spin up a new project with formation team
+   
