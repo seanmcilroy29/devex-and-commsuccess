@@ -101,6 +101,8 @@ This is just a start. Please add any acronyms that your projects use!
 * [1Password](https://1password.com/)
     * Credential management 
     * 1Password offers a [free Teams account for Open Source projects](https://github.com/1Password/1password-teams-open-source).
+* [Credly](https://credly.com/)
+    * Digital badge management 
 * [LFX Insights](https://insights.lfx.linuxfoundation.org/)
     * Insights gives you complete visibility into project performance and ecosystem trends. Understand your contributor community and make informed decisions with these analytics and reporting tools.
     * [LFX Insights Documentation](https://docs.linuxfoundation.org/lfx/insights)
