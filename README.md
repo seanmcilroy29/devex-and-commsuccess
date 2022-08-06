@@ -1,8 +1,3 @@
----
-title: Developer Experience and Community Success team handbook
-permalink: index.html
----
-
 ## On this page
 {:.no_toc}
 
@@ -13,7 +8,7 @@ permalink: index.html
 
 This handbook describes how we run the Developer Experience and Community Success team at the Linux Foundation. If you are viewing the markdown soources on the repository, you can also view the rendered documentation at [the handbook site](https://linuxfoundation.github.io/devex-and-commsuccess-handbook/). The site is generally the best URL to bookmark and share.
 
-All team members are [encouraged to contribute to the handbook](#how-to-edit-the-handbook).
+All team members are [encouraged to contribute to the handbook](how-to-edit-the-handbook).
 
 ## Communication
 
@@ -80,43 +75,85 @@ You can reach out to the whole Developer Experience and Community Success team i
 1. [Developer Experience and Community Success Slack channel](https://linuxfoundation.slack.com/messages/devex-and-commsuccess): the team's main communication channel for discussion and sharing knowledge related to our projects and communities. All members of the team are part of the channel, which is also open to anyone else in the organization who either wants to follow the work, ask questions or simply hang out to join. It is a public Slack channel for LF team members only.
 1. [Community hangout Slack channel](https://linuxfoundation.slack.com/messages/community-hangout): the team's social channel. This is a space to share non-work related stories. What did you do last weekend? Show off your pets, show us your last family holiday pics, memes... In summary, a space to get to know each other by offering a window into what we're doing when we're not in front of the computer working. All team members are included by default, but it's voluntary to join/leave the channel. Feel free to share as much or as little as you like.
 
-## How to edit the handbook
+## Acronym Glossary
 
-The handbook's content is written in [Markdown format](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Familiarize with the syntax before doing your first edits.
+This is just a start. Please add any acronyms that your projects use! 
 
-For simplicity, GitHub's web UI is the proposed choice of editor for markdown files, and that which the workflow below assumes. Alternatively, more advanced users can also choose to check out the repository, do local edits and submit the changes in a PR.
+* **ED - Executive Director**
+    * ED's job is to execute the directives of the board, in the best interests of the project. This often includes guiding the Board Chair in the fulfillment of their duties to the board in setting agendas and running the meeting.
+* **GB - Governing Board**
+   * The Governing Board is responsible for overall management of the Directed Fund. This includes budget approvals that are usually assembled in advance by the Treasurer and/or ED and then approved by vote during a board meeting.
+* **MAC - Marketing Advisory Committee**
+   * The MAC oversees all marketing efforts for the project.
+* **OC - Outreach Committee**
+   * The OC oversees all marketing and outreach efforts for the project. Projects usually will have either a MAC or an OC. 
+* **SPC - Strategic Planning Committee**
+   * The SPC is a subcommittee of the GB functioning as a communication channel between the GB and the TAC project leadership for collaboration and providing strategic guidance
+* **TAC - Technical Advisory Committee**
+   * TAC’s are usually only seen in umbrella projects. The role of the TAC in umbrella typically is to manage the project lifecycle, provide common infrastructure for hosted projects ( communications, build/CI, code hosting and management ), and resolve any escalated project issues or concerns. 
+* **TSC - Technical Steering Committee**
+   * The TSC is the leadership of the project. This committee's primary role is to set the overall direction of the project, ensure the project community has the needed resources and infrastructure to succeed, resolve any issues within the project community, and provide project updates to the TAC (if the project has a TAC).
+* **TOC - Technical Oversight Committee**
+   * See TAC definition. Projects usually will have either a TOC or TAC.
 
-Creating and curating the handbook is a collaborative effort where everyone in the team is encouraged to contribute. Since often the content will define common policies or processes, it will also be peer-reviewed. The act of doing reviews and approvals will generally be a compromise between consensus and bias for action. Everyone is encouraged to do a review, but the submitter will not generally require approval from the whole team to commit their changes, so that we can move faster. Exceptions might include defining critical team policies, where everyone's review and approval might be required before that policy is either approved, iterated upon or discarded.
+## Tooling
 
-### Edit workflow
+* [1Password](https://1password.com/)
+    * Credential management 
+    * 1Password offers a [free Teams account for Open Source projects](https://github.com/1Password/1password-teams-open-source).
+* [Credly](https://credly.com/)
+    * Digital badge management 
+* [LFX Insights](https://insights.lfx.linuxfoundation.org/)
+    * Insights gives you complete visibility into project performance and ecosystem trends. Understand your contributor community and make informed decisions with these analytics and reporting tools.
+    * [LFX Insights Documentation](https://docs.linuxfoundation.org/lfx/insights)
+* [LFX Project Control Center](https://projectadmin.lfx.linuxfoundation.org/) (PCC)
+    * PCC provides operations support across governance, IT, and product management needs.
+    * This is where you update your project committees, enable email forwarding, set up mailing lists, onboard your projects to LFX Insights, LFX Security, EasyCLA, etc.
+    * [LFX Project Control Center Documentation](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release')
+* [LFX Organization Dashboard](https://myorg.lfx.dev/)
+    * Organization dashboard also known as company dashboard is a one hub to provide management and visibility to all organization activities with Linux Foundation services as projects memberships, Linux Foundation events, training and certifications, projects analysis and insights, CLA, security, funding and mentorship.
+    * This is where you update membership roles, company logos, and access member contracts.
+    * [LFX Organization Dashboard Documentation](https://docs.linuxfoundation.org/lfx/organization-dashboard-pre-release)
+* [LFX Security](https://security.lfx.dev/)
+    * The LFX Security tool provides the following functionalities with respect to the open source project code:
+        * Vulnerabilities Detection - To detect vulnerabilities in your code and provide fixes and recommendations to those vulnerabilities.
+        * Code Secrets - Detect secrets such as passwords, credentials, keys, access tokens which might help hackers to hack your code.
+        * Non Inclusive Language - Detects non inclusive words used in your code which might hurt and treat people unfairly.
+    * [LFX Security Documentation](https://docs.linuxfoundation.org/lfx/security)
+* [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/)
+    * LFX Mentorship is a tool that makes it easier than ever to pair promising open source talent with experienced mentors.
+    * [LFX Mentorship Documentation](https://docs.linuxfoundation.org/lfx/mentorship)
+* [LFX EasyCLA](https://easycla.lfx.linuxfoundation.org/#/)
+    * LFX EasyCLA streamlines the contribution process for open source projects that use [Contributor License Agreements (CLAs)](https://docs.linuxfoundation.org/lfx/easycla#what-is-a-cla), by streamlining workflows for project maintainers, contributors, and organizations whose employees are contributing to the project.
+    * [LFX EasyCLA Documentation](https://docs.linuxfoundation.org/lfx/easycla)
+* [Hubspot](https://www.hubspot.com/)
+    * CRM platform that has all the tools and integrations you need for marketing, sales, content management, and customer service
+* [OpaVote](https://www.opavote.com/)
+    * Election and polls
+    * Information on how to set up an election in OpaVote can be found [here](https://confluence.linuxfoundation.org/pages/viewpage.action?pageId=70484713).
+* [SurveyMonkey](https://www.surveymonkey.com/user/sign-in/)
+    * Survey tool
+    * Join the LF Enterprise account by following these steps:
+         1. Go to [SurveyMonkey Login ](https://www.surveymonkey.com/user/sign-in/)
+         2. Select Log in with Google account 
+         3. Create New Account 
+         4. Join Enterprise team (it will recognize your domain and add you to the LF "team" account)
 
-Content contribution overview:
+## Ticket/Request Submissions
 
-```mermaid
-graph TD
-    A(Edit content) --> B_(Commit changes)
-    B_ --> B("Submit Pull Request (PR)")
-    B --> C(Request review)
-    C --> D{Reviewer approves}
-    D -->|Y| E(Merge MR)
-    D -->|N| F(Edit content)
-    F --> G(Commit changes)
-    G --> C
-```
+A list of places to submit various types of tickets/requests within the LF. Please help to add/edit over time. 
 
-Content contribution in detail:
-
-| Stage | UI | Description |
-| --- | --- | --- |
-| Edit | ![imatge](https://user-images.githubusercontent.com/1689781/180428653-9c38f733-72cc-40b4-962b-5df06833f517.png) | At this stage you are viewing the file you want to edit on the [handbook repository](https://github.com/linuxfoundation/devex-and-commsuccess-handbook). Any text file will have a pencil icon at the top right-hand corner, which you can click to start modifying the file on the web editor. This workflow will initiate the creation of a development branch to contain your changes on the main repository. |
-| Commit changes | ![Captura de pantalla de 2022-07-22 11-27-43](https://user-images.githubusercontent.com/1689781/180428764-74405f78-78f0-4f94-91c9-dff248556213.png) | Once you are ready with your changes, you will want to commit them to save them under revision control. Scroll down to the bottom of the file you are editing to find the commit dialog.<br>:information_source: Generally for commits you'll want to fill in the short description only.<br>:information_source: Make sure you are using your `@linuxfoundation.org` e-mail address for the sign off<br>:information_source: You can use the default for the branch name, or you can choose a name for your branch<br>Finally click on <kbd>Sign off and propose changes</kbd> to commit those changes. |
-| Submit Pull Request (PR) | ![Captura de pantalla de 2022-07-22 11-32-06](https://user-images.githubusercontent.com/1689781/180428837-2fa0e508-401f-4694-8ad8-3b73a1699221.png) | Once the changes have been committed, GitHub will start the process of creating a PR, opening a similar dialog as in the previous stage. You can now review the description and changes before you submit the PR.<br>:information_source: The short description will be the title of the PR. By default, GitHub prepopulates it with the short description of your last commit. Review it to ensure it describes the MR's purpose accurately<br>:information_source: It's recommended to fill in the long description for PRs. This provides context for the reviewers to understand why you are proposing changes vs. what the changes are.<br>:information_source: If your PR is a work in progress and you want to continue adding changes before it is reviewed, choose <kbd>Create draft pull request</kbd>. Otherwise choose <kbd>Create pull request</kbd>. Then click on the button to create it. |
-| Request review | ![Captura de pantalla de 2022-07-22 11-38-35](https://user-images.githubusercontent.com/1689781/180428958-0734c2aa-ec73-4fc3-9510-6227763546bf.png) | Once your PR has been submitted, a reviewer or more should be assigned to it for the ultimate review and approval. Pick one or more reviewers from your team, on the `Reviewers` section on the right-hand side panel of the web UI. <br>:information_source: Alternatively, you can also ask for a review by explicitly asking (mentioning) people on one of the PR's comments |
-| Reviewer approves | TBD | The reviewer will get an e-mail notification. Once they are ready to review, they will generally look at the `Changes` tab to see a diff of what's been modified. If they are happy with the changes, they will approve them. If not, they'll point out what they feel needs to be changed for the submitter to address it. In that case, the reviewer will go back to the file in their branch, and restart the edit and commit process, which will automatically update the MR. |
-| Merge MR | TBD | The final reviewer will generally merge the MR once one or more approvals have been received. The submitter will not generally approve their own requests. However, until we refine the process it should be fine for them to do so if the reviewers' approvals have been done. |
-
-:information_source: Note for advanced users: members of the [Developer Experience and Community Success team](https://github.com/orgs/linuxfoundation/teams/devex-and-commsuccess-team) in the `linuxfoundation` organization in GitHub can create development branches directly under the repository where the handbook lives. These will be generally the ones that will be used to contain the changes submitted in PRs. It is not the most common development approach, but it simplifies our workflow. Working on forks and topic branches is also supported.
-
+* [LF Support Center (Jira Service Desk)](https://jira.linuxfoundation.org/plugins/servlet/theme/portals/category/4)
+    * Central location for submitting tickets related to Project Services, LFX Support, Training & Certification, Member Support, and LF Events
+* [Membership Ops Desk](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/25)
+    * Membership operations support for items such as Auto Join, Billing Address/Contact Changes, Custom Salesforce Reports, Membership Cancellations/Upgrades/Downgrades, Quote Requests, and Invoice Changes
+    * [Membership Ops Desk FAQ](https://docs.google.com/document/d/1P1K3kzuhaRIoOwj117XB_5SOMjqj2r-ZwZFCFyal6W0/edit)
+* [Marketing Services Requests](https://linuxfoundation.org/marketing-requests/)
+    * Requests for Design, Website, PR/Communications, and Digital Marketing
+* [Legal Requests](https://legaljira.linuxfoundation.org/servicedesk/customer/portal/1)
+    * Requests for legal requests related to Contracts, Trademark, Export Control, and Other
+* [Project Formation Intake Form](https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform)
+   * Submission form to spin up a new project with formation team
 
 ## How to set up a third party contract vendor
 
@@ -124,33 +161,33 @@ These steps apply to either agencies or individuals.
 
 1. The vendor either: 
    1. Creates a scope of work (SOW) outlining what they will be doing and what it will cost. This is the preferred method. 
-    2. Creates a legal agreement that includes a SOW. This method requires the LF Legal team to review the contract before approving it for LF to sign. 
+   1. Creates a legal agreement that includes a SOW. This method requires the LF Legal team to review the contract before approving it for LF to sign. 
 2. The vendor sends either their SOW or their legal agreement to the LF internal contact, usually the Program Manager. 
 3. The LF internal contact goes to [staff.linuxfoundation.org](staff.linuxfoundation.org) and opens the ‘[HR Finance Ops](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/21)’ portal.
 4. Inside the HR Finance Ops portal, click the ‘[Contractor & Vendor Requests](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/21/create/462)’ option and fill out the form. 
    1. In order to complete the form you will need this information from the contractor:
-        1. Vendor name
-        2. Name of signatory for contract
-        3. Email address of signatory for contract
-        4. Contractor’s physical mailing address
-        5. Contractor start date
-        6. Contractor duration
-        7. Contractor type: individual or agency
-        8. New contract or extension to an existing contractor agreement (requires LF Legal review)
-        9. Standard LF contract (preferred) or 
-        10. LF department or Project the contractor will be working for
-        11. Description of work to align it with the correct budget code (ex: Marketing)
-        12. Compensation type: hourly, salary, other
-        13. Compensation amount
-        14. Compensation max budget
-        15. Name of LF internal manager
-        16. Scope of work provided by the vendor (provided as an attachment)
+   1. Vendor name
+   1. Name of signatory for contract
+   1. Email address of signatory for contract
+   1. Contractor’s physical mailing address
+   1. Contractor start date
+   1. Contractor duration
+   1. Contractor type: individual or agency
+   1. New contract or extension to an existing contractor agreement (requires LF Legal review)
+   1. Standard LF contract (preferred) or 
+   1. LF department or Project the contractor will be working for
+   1. Description of work to align it with the correct budget code (ex: Marketing)
+   1. Compensation type: hourly, salary, other
+   1. Compensation amount
+   1. Compensation max budget
+   1. Name of LF internal manager
+   1. Scope of work provided by the vendor (provided as an attachment)
 5. You will receive a notification from Jira that your form has been submitted. 
 6. Your request will be reviewed by the LF Finance team to ensure the department or project’s budget has enough revenue to cover the new expense.
 7. Once approved by LF Finance, The LF HR Finance Ops team will create a Docusign agreement. You will receive a notification that the agreement is “out for signature” when it is sent to the first signatory. 
-    4. The Docusign agreement is first sent to the Finance lead for that department or project for them to sign. 
-    5. It is then routed to the LF internal manager (who will manage the contractor) for them to sign.
-    6. Finally it is sent to the contract vendor for them to sign.
+   1. The Docusign agreement is first sent to the Finance lead for that department or project for them to sign. 
+   1. It is then routed to the LF internal manager (who will manage the contractor) for them to sign.
+   1. Finally it is sent to the contract vendor for them to sign.
 8. Once all three parties have signed the document you will receive a copy of it from Docusign. The three parties who signed it will also receive a copy.  
 9. When it's time to pay, the vendor emails their invoice to the LF internal manager for them to review it. Once they approve payment on the invoice they forward it to [AP@Linuxfoundation.org](mailto:AP@Linuxfoundation.org) notifying them that the invoice is approved for payment. 
 10. The LF Accounts Payable department will pay the invoice. 
