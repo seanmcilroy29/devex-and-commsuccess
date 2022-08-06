@@ -101,6 +101,8 @@ This is just a start. Please add any acronyms that your projects use!
 * [1Password](https://1password.com/)
     * Credential management 
     * 1Password offers a [free Teams account for Open Source projects](https://github.com/1Password/1password-teams-open-source).
+* [Credly](https://credly.com/)
+    * Digital badge management 
 * [LFX Insights](https://insights.lfx.linuxfoundation.org/)
     * Insights gives you complete visibility into project performance and ecosystem trends. Understand your contributor community and make informed decisions with these analytics and reporting tools.
     * [LFX Insights Documentation](https://docs.linuxfoundation.org/lfx/insights)
@@ -152,4 +154,40 @@ A list of places to submit various types of tickets/requests within the LF. Plea
     * Requests for legal requests related to Contracts, Trademark, Export Control, and Other
 * [Project Formation Intake Form](https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform)
    * Submission form to spin up a new project with formation team
-   
+
+## How to set up a third party contract vendor
+
+These steps apply to either agencies or individuals.
+
+1. The vendor either: 
+   1. Creates a scope of work (SOW) outlining what they will be doing and what it will cost. This is the preferred method. 
+   1. Creates a legal agreement that includes a SOW. This method requires the LF Legal team to review the contract before approving it for LF to sign. 
+2. The vendor sends either their SOW or their legal agreement to the LF internal contact, usually the Program Manager. 
+3. The LF internal contact goes to [staff.linuxfoundation.org](staff.linuxfoundation.org) and opens the ‘[HR Finance Ops](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/21)’ portal.
+4. Inside the HR Finance Ops portal, click the ‘[Contractor & Vendor Requests](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/21/create/462)’ option and fill out the form. 
+   1. In order to complete the form you will need this information from the contractor:
+   1. Vendor name
+   1. Name of signatory for contract
+   1. Email address of signatory for contract
+   1. Contractor’s physical mailing address
+   1. Contractor start date
+   1. Contractor duration
+   1. Contractor type: individual or agency
+   1. New contract or extension to an existing contractor agreement (requires LF Legal review)
+   1. Standard LF contract (preferred) or 
+   1. LF department or Project the contractor will be working for
+   1. Description of work to align it with the correct budget code (ex: Marketing)
+   1. Compensation type: hourly, salary, other
+   1. Compensation amount
+   1. Compensation max budget
+   1. Name of LF internal manager
+   1. Scope of work provided by the vendor (provided as an attachment)
+5. You will receive a notification from Jira that your form has been submitted. 
+6. Your request will be reviewed by the LF Finance team to ensure the department or project’s budget has enough revenue to cover the new expense.
+7. Once approved by LF Finance, The LF HR Finance Ops team will create a Docusign agreement. You will receive a notification that the agreement is “out for signature” when it is sent to the first signatory. 
+   1. The Docusign agreement is first sent to the Finance lead for that department or project for them to sign. 
+   1. It is then routed to the LF internal manager (who will manage the contractor) for them to sign.
+   1. Finally it is sent to the contract vendor for them to sign.
+8. Once all three parties have signed the document you will receive a copy of it from Docusign. The three parties who signed it will also receive a copy.  
+9. When it's time to pay, the vendor emails their invoice to the LF internal manager for them to review it. Once they approve payment on the invoice they forward it to [AP@Linuxfoundation.org](mailto:AP@Linuxfoundation.org) notifying them that the invoice is approved for payment. 
+10. The LF Accounts Payable department will pay the invoice. 
