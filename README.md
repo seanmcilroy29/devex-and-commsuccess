@@ -95,6 +95,8 @@ This is just a start. Please add any acronyms that your projects use!
    * The TSC is the leadership of the project. This committee's primary role is to set the overall direction of the project, ensure the project community has the needed resources and infrastructure to succeed, resolve any issues within the project community, and provide project updates to the TAC (if the project has a TAC).
 * **TOC - Technical Oversight Committee**
    * See TAC definition. Projects usually will have either a TOC or TAC.
+* **DRI - Direct Responsible Individual**
+   * The person who is responsible and ultimately accountable for the success of a particular project, initiative, product, etc.
 
 ## Tooling
 
@@ -138,6 +140,20 @@ This is just a start. Please add any acronyms that your projects use!
          2. Select Log in with Google account 
          3. Create New Account 
          4. Join Enterprise team (it will recognize your domain and add you to the LF "team" account)
+
+### LFX Directory
+
+| Tool | DRI | Where to report bugs | Notes |
+| --- | --- | --- | --- |
+| Project Control Center (PCC) | Eric Searcy | [PCC issue tracker](https://jira.linuxfoundation.org/projects/PCC/issues) |  |
+| Crowdfunding | Chaitan Shet |  |  |
+| Mentorship | Chaitan Shet |  |  |
+| Insights | Sachin Gupta, Chaitan Shet |  |  |
+| Individual dashboard | Nadia Shomali |  |  |
+| Org dashboard | Nadia Shomali |  |  |
+| Security | Dylan Goubin |  |  |
+| EasyCLA | Dylan Goubin |  |  |
+| Auto Join | Mindy White |  | Not specifically part of LFX |
 
 ## Ticket/Request Submissions
 
