@@ -152,7 +152,7 @@ This is just a start. Please add any acronyms that your projects use!
 | Individual dashboard | Nadia Shomali |  |  |
 | Org dashboard | Nadia Shomali |  |  |
 | Security | Dylan Goubin |  |  |
-| EasyCLA | Dylan Goubin |  |  |
+| EasyCLA | Dylan Goubin | [EasyCLA issue tracker](https://github.com/communitybridge/easycla/issues) |  |
 | Auto Join | Mindy White |  | Not specifically part of LFX |
 
 ## Ticket/Request Submissions
