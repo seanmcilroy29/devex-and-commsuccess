@@ -191,3 +191,9 @@ These steps apply to either agencies or individuals.
 8. Once all three parties have signed the document you will receive a copy of it from Docusign. The three parties who signed it will also receive a copy.  
 9. When it's time to pay, the vendor emails their invoice to the LF internal manager for them to review it. Once they approve payment on the invoice they forward it to [AP@Linuxfoundation.org](mailto:AP@Linuxfoundation.org) notifying them that the invoice is approved for payment. 
 10. The LF Accounts Payable department will pay the invoice. 
+
+## How to Change Member Roles
+1. Encourage members to use the [Member Support Desk](https://docs.google.com/document/d/1NHPRGfcyg8FVNlRC9-HX-hOIYbafXxtu5Bie3wNCvSg/edit?usp=sharing) to report changes in project roles. This is the preferred method. Otherwise, open a Jira in the [Staff portal](https://staff.linuxfoundation.org/) .
+2. LF Operations will update the CRM (Customer Relationship Management, currently Salesforce, moving to Hubspot.) 
+3. LF Operations will notify the LF prime for the project. The LF Prime updates the Project Control Center ([PCC](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release)) and the [Organization Dashboard](https://docs.google.com/document/d/1i_0rHkjOzpqUOW5kTA4y_Y5taFR8-oRjwvmU3ME3VJ0/edit?usp=sharing). 
+4. Best practice is to refresh all the roles for the organization in that project to keep all contacts up to date.
