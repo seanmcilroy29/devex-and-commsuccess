@@ -193,7 +193,7 @@ These steps apply to either agencies or individuals.
 10. The LF Accounts Payable department will pay the invoice. 
 
 ## How to Change Member Roles
-1. Encourage members to use the [Member Support Desk](https://docs.google.com/document/d/1NHPRGfcyg8FVNlRC9-HX-hOIYbafXxtu5Bie3wNCvSg/edit?usp=sharing) to report changes in project roles. This is the preferred method. Otherwise, open a Jira in the [Staff portal](https://staff.linuxfoundation.org/) .
+1. Project members should use the [Member Support Desk](https://docs.google.com/document/d/1NHPRGfcyg8FVNlRC9-HX-hOIYbafXxtu5Bie3wNCvSg/edit?usp=sharing) to report changes in project roles.  If there are exceptions, and you feel like you need to do this yourself, please add the use case to this section of the handbook. To process a role change on behalf of a member organization (not recommended), open a Jira in the [Staff portal](https://staff.linuxfoundation.org/) and go to Membership and Sales Ops.
 2. LF Operations will update the CRM (Customer Relationship Management, currently Salesforce, moving to Hubspot.) 
-3. After LF Operations updates the CRM, they will notify the LF prime for the project on the Jira. The LF Prime updates the Project Control Center ([PCC](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release)) and the [Organization Dashboard](https://docs.google.com/document/d/1i_0rHkjOzpqUOW5kTA4y_Y5taFR8-oRjwvmU3ME3VJ0/edit?usp=sharing). 
+3. After LF Operations updates the CRM, they will notify the Project Administrator on the Jira. The Project Administrator updates the Project Control Center ([PCC](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release)) and the [Organization Dashboard](https://docs.google.com/document/d/1i_0rHkjOzpqUOW5kTA4y_Y5taFR8-oRjwvmU3ME3VJ0/edit?usp=sharing). 
 4. Best practice is to refresh all the roles for the organization in that project to keep all contacts up to date.
