@@ -143,6 +143,9 @@ This is just a start. Please add any acronyms that your projects use!
          2. Select Log in with Google account 
          3. Create New Account 
          4. Join Enterprise team (it will recognize your domain and add you to the LF "team" account)
+* [Spendesk](https://spendesk.com)
+    * Virtual credit card for paying project expenses more efficiently
+    * Check with LF Accounts Payable
 
 ## Ticket/Request Submissions
 
