@@ -207,3 +207,10 @@ These steps apply to either agencies or individuals.
 8. Once all three parties have signed the document you will receive a copy of it from Docusign. The three parties who signed it will also receive a copy.  
 9. When it's time to pay, the vendor emails their invoice to the LF internal manager for them to review it. Once they approve payment on the invoice they forward it to [AP@Linuxfoundation.org](mailto:AP@Linuxfoundation.org) notifying them that the invoice is approved for payment. 
 10. The LF Accounts Payable department will pay the invoice. 
+
+## How to Change Member Roles
+1. Project members should use the [Member Support Desk](https://docs.google.com/document/d/1NHPRGfcyg8FVNlRC9-HX-hOIYbafXxtu5Bie3wNCvSg/edit?usp=sharing) to report changes in project roles.  If there are exceptions, and you feel like you need to do this yourself, please add the use case to this section of the handbook. To process a role change on behalf of a member organization (not recommended), open a Jira in the [Staff portal](https://staff.linuxfoundation.org/) and go to Membership and Sales Ops.
+2. LF Operations will update the CRM (Customer Relationship Management, currently Salesforce, moving to Hubspot.) 
+3. After LF Operations updates the CRM, they will notify the Project Administrator on the Jira. The Project Administrator updates the Project Control Center ([PCC](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release)) and the [Organization Dashboard](https://docs.google.com/document/d/1i_0rHkjOzpqUOW5kTA4y_Y5taFR8-oRjwvmU3ME3VJ0/edit?usp=sharing). 
+4. Make sure that everywhere else, outside of the PCC and Organization Dashboard, is also updated. Examples include calendar invitations, and email lists not managed within the PCC. 
+5. Best practice is to refresh all the roles for the organization in that project to keep all contacts up to date.
