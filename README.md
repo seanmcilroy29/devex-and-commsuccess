@@ -99,6 +99,14 @@ This is just a start. Please add any acronyms that your projects use!
    * Wikipedia: a type of performance measurement. KPIs evaluate the success of an organization or of a particular activity (such as projects, programs, products and other initiatives) in which it engages.
 * **OKR - Objectives and Key Results**
    * Wikipedia: a goal-setting framework used by individuals, teams, and organizations to define measurable goals and track their outcomes.
+* **IPR - Intellectual Property Rights**
+   * Refers to the legal rights given to the inventor or creator to protect his invention or creation for a certain period of time.
+* **GDPR - General Data Protection Regulation**
+   * A regulation that requires businesses to protect the personal data and privacy of EU citizens for transactions that occur within EU member states.
+* **CRM - Customer Relationship Management**
+   * A technology for managing all your company's relationships and interactions with customers and potential customers.
+* **SFDC - SalesForce Dot Com**
+   * Generally used to refer to Salesforce CRM functionality.
 
 ## Tooling
 
