@@ -95,6 +95,10 @@ This is just a start. Please add any acronyms that your projects use!
    * The TSC is the leadership of the project. This committee's primary role is to set the overall direction of the project, ensure the project community has the needed resources and infrastructure to succeed, resolve any issues within the project community, and provide project updates to the TAC (if the project has a TAC).
 * **TOC - Technical Oversight Committee**
    * See TAC definition. Projects usually will have either a TOC or TAC.
+* **KPI - Key Performance Indicator**
+   * Wikipedia: a type of performance measurement. KPIs evaluate the success of an organization or of a particular activity (such as projects, programs, products and other initiatives) in which it engages.
+* **OKR - Objectives and Key Results**
+   * Wikipedia: a goal-setting framework used by individuals, teams, and organizations to define measurable goals and track their outcomes.
 
 ## Tooling
 
@@ -139,6 +143,9 @@ This is just a start. Please add any acronyms that your projects use!
          2. Select Log in with Google account 
          3. Create New Account 
          4. Join Enterprise team (it will recognize your domain and add you to the LF "team" account)
+* [Spendesk](https://spendesk.com)
+    * Virtual credit card for paying project expenses more efficiently
+    * Check with LF Accounts Payable
 
 ## Ticket/Request Submissions
 
